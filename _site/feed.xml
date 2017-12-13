@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mengjun Leng</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <description>Feel free to contact me!
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Dec 2017 16:41:02 -0600</pubDate>
-    <lastBuildDate>Wed, 13 Dec 2017 16:41:02 -0600</lastBuildDate>
+    <link>https://mengjunleng.github.io/</link>
+    <atom:link href="https://mengjunleng.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 13 Dec 2017 17:36:41 -0600</pubDate>
+    <lastBuildDate>Wed, 13 Dec 2017 17:36:41 -0600</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Wed, 13 Dec 2017 14:14:01 -0600</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2017/12/13/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2017/12/13/welcome-to-jekyll.html</guid>
+        <link>https://mengjunleng.github.io/jekyll/update/2017/12/13/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://mengjunleng.github.io/jekyll/update/2017/12/13/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -56,8 +56,8 @@
 
 </description>
         <pubDate>Wed, 13 Dec 2017 14:14:01 -0600</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2017/12/13/TCY.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2017/12/13/TCY.html</guid>
+        <link>https://mengjunleng.github.io/jekyll/update/2017/12/13/TCY.html</link>
+        <guid isPermaLink="true">https://mengjunleng.github.io/jekyll/update/2017/12/13/TCY.html</guid>
         
         
         <category>jekyll</category>
@@ -84,8 +84,8 @@
 
 </description>
         <pubDate>Wed, 13 Dec 2017 14:14:01 -0600</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2017/12/13/ICPR.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2017/12/13/ICPR.html</guid>
+        <link>https://mengjunleng.github.io/jekyll/update/2017/12/13/ICPR.html</link>
+        <guid isPermaLink="true">https://mengjunleng.github.io/jekyll/update/2017/12/13/ICPR.html</guid>
         
         
         <category>jekyll</category>
@@ -112,8 +112,8 @@
 
 </description>
         <pubDate>Wed, 13 Dec 2017 14:14:01 -0600</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2017/12/13/BTAS.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2017/12/13/BTAS.html</guid>
+        <link>https://mengjunleng.github.io/jekyll/update/2017/12/13/BTAS.html</link>
+        <guid isPermaLink="true">https://mengjunleng.github.io/jekyll/update/2017/12/13/BTAS.html</guid>
         
         
         <category>jekyll</category>
