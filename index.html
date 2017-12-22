@@ -9,9 +9,13 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-         <!--<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>-->
-
           <span class="page-content" >{{ post.title }}</span>
+          <br>
+          <a class="post-meta" href="{{ site.url }}/doc/{{post.papername}}.pdf">{{ post.categories}}</a>
+          <!--&nbsp&nbsp&nbsp
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          &nbsp&nbsp&nbsp
+          <span class="post-meta">{{ post.categories}}</span>-->
       </li>
     {% endfor %}
   </ul>
