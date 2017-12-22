@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "M. Leng, P. Moutafis, and I.A. Kakadiaris, “Joint prototype and metric learning for image set classification: Application to video face identification”, IVCJ 2017."
+papertitle:  "M. Leng, P. Moutafis, and I.A. Kakadiaris, “Joint prototype and metric learning for image set classification: Application to video face identification”, IVCJ 2017."
+title: Joint Prototype and Metric Learning
 date:   2017-12-13 14:14:01 -0600
 categories: Paper
 author: ML

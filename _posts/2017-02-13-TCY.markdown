@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "P. Moutafis, M. Leng, and I.A. Kakadiaris, “An overview and Empirical Comparison of Distance Metric Learning Algorithms,” IEEE Transactions on Cybernetics, 2016."
+title: An overview and Empirical Comparison of Distance Metric Learning Algorithms
+papertitle: "P. Moutafis, M. Leng, and I.A. Kakadiaris, “An overview and Empirical Comparison of Distance Metric Learning Algorithms,” IEEE Transactions on Cybernetics, 2016."
 date:   2017-02-13 14:14:01 -0600
 categories: Paper
 author: ML

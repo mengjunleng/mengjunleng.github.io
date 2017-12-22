@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "P. Moutafis, M. Leng, and I.A. Kakadiaris, “Regression-based Metric Learning”, ICPR 2016"
+papertitle:  "P. Moutafis, M. Leng, and I.A. Kakadiaris, “Regression-based Metric Learning”, ICPR 2016"
+title: Regression-based Metric Learning
 date:   2016-12-11 14:14:01 -0600
 categories: Paper
 author: ML

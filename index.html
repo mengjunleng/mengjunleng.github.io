@@ -9,11 +9,12 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-          <span class="page-content" >{{ post.title }}</span>
+          <span class="page-content" >{{ post.papertitle }}</span>
           <br>
           <a class="post-meta" href="{{ site.url }}/doc/{{post.papername}}.pdf">{{ post.categories}}</a>
-          <!--&nbsp&nbsp&nbsp
-          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+          <a class="post-meta" href="{{ site.url }}/bib/{{post.papername}}.bib">{{"BibTex"}}</a>
+          <!--<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
           &nbsp&nbsp&nbsp
           <span class="post-meta">{{ post.categories}}</span>-->
       </li>

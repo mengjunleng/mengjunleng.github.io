@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "M. Leng, P. Moutafis, and I.A. Kakadiaris, “Joint Prototype and Metric Learning for Set-To-Set Matching: Application to Biometrics”, BTAS 2015. (Oral, selected as the best of biometrics, 2016)"
+papertitle:  "M. Leng, P. Moutafis, and I.A. Kakadiaris, “Joint Prototype and Metric Learning for Set-To-Set Matching: Application to Biometrics”, BTAS 2015. (Oral, selected as the best of biometrics, 2016)"
+title: Joint Prototype and Metric Learning
 date:   2015-09-11 14:14:01 -0600
 categories: Paper
 presentation: Slides
